@@ -69,14 +69,11 @@ diff2 = df_before.compare(df_after, keep_shape=True, keep_equal=True)
 diff2
 
 
-# In[17]:
-
-
 diff = df_before.compare(df_after, align_axis=1)
 diff.to_excel('/Users/ruthwikranganath/Downloads/diff.xlsx')
 
 
-# In[ ]:
+# In[ ]:hi
 
 
 
